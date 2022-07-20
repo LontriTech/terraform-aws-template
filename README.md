@@ -1,7 +1,7 @@
 <!-- BEGIN_TF_DOCS -->
 # Terraform AWS: Template
 
-Terraform AWS Module Template.
+Terraform Module Template for AWS.
 
 [![Terraform Docs](https://github.com/fr-platform/terraform-aws-template/actions/workflows/terraform-docs.yml/badge.svg)](https://github.com/fr-platform/terraform-aws-template/actions/workflows/terraform-docs.yml)
 [![Checkov](https://github.com/fr-platform/terraform-aws-template/actions/workflows/checkov.yml/badge.svg)](https://github.com/fr-platform/terraform-aws-template/actions/workflows/checkov.yml)
