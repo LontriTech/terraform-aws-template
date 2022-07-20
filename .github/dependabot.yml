@@ -4,8 +4,13 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    reviewers:
+      - 'mantainers'
 
   - package-ecosystem: "terraform"
     directory: "/"
     schedule:
       interval: "daily"
+    reviewers: 
+      - 'mantainers'
+      
